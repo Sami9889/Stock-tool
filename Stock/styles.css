@@ -1,0 +1,41 @@
+.stApp {
+    font-family: 'Arial', sans-serif;
+}
+
+.stock-card {
+    background-color: #ffffff;
+    padding: 1.5rem;
+    border-radius: 10px;
+    box-shadow: 0 2px 4px rgba(0, 0, 0, 0.1);
+    margin-bottom: 1rem;
+}
+
+.stock-metric {
+    font-size: 1.2rem;
+    font-weight: bold;
+    color: #0068c9;
+}
+
+.positive-change {
+    color: #00ab41;
+}
+
+.negative-change {
+    color: #ff4b4b;
+}
+
+.login-container {
+    max-width: 400px;
+    margin: 0 auto;
+    padding: 2rem;
+    background-color: #ffffff;
+    border-radius: 10px;
+    box-shadow: 0 2px 4px rgba(0, 0, 0, 0.1);
+}
+
+.watchlist-item {
+    padding: 0.5rem;
+    background-color: #f8f9fa;
+    border-radius: 5px;
+    margin-bottom: 0.5rem;
+}
