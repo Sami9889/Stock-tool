@@ -1,4 +1,4 @@
-# [Software Name]  
+# stock-tool
 
 ## License  
 This software is **proprietary** and protected under **Australian law**.  
