@@ -1,0 +1,82 @@
+# 📖 Stock Tool – Ultimate Installation & Setup Guide  
+
+Stock Tool is an advanced stock market tracking system that allows users to:  
+✅ Fetch **real-time stock prices** from Yahoo Finance and other APIs.  
+✅ Retrieve **historical stock data** (price history, volume, trends).  
+✅ Provide **detailed company information** (market cap, industry, etc.).  
+✅ Manage a **watchlist** to track favorite stocks.  
+✅ Create and monitor a **portfolio** of stocks with share details.  
+✅ Generate **technical indicators** (moving averages, RSI, etc.).  
+✅ Display **interactive stock charts** for in-depth analysis.  
+✅ Set **price alerts** for stocks and get notified.  
+✅ Automate **real-time stock price updates** in the background.  
+
+---
+
+# 🚀 1. Installation & Setup  
+
+## 🔹 **1.1 System Requirements**  
+
+Before installing Stock Tool, ensure your system meets the following requirements:  
+
+### 🖥 **Operating System Support**  
+✅ **Windows** (Windows 10, 11)  
+✅ **macOS** (Big Sur, Monterey, Ventura)  
+✅ **Linux** (Ubuntu 20.04+, Debian, Arch, CentOS)  
+✅ **Windows Subsystem for Linux (WSL)**  
+
+### ⚡ **Hardware Requirements**  
+✅ **Minimum:**  
+- **CPU**: Dual-core processor  
+- **RAM**: 2GB  
+- **Storage**: 200MB free space  
+- **Internet Connection** (for fetching live stock prices)  
+
+✅ **Recommended:**  
+- **CPU**: Quad-core processor  
+- **RAM**: 4GB+  
+- **Storage**: 500MB free space  
+
+---
+
+## 🔹 **1.2 Prerequisites**  
+
+### ✅ **Required Software & Tools**  
+1. **Python 3.x** (Required to run the script)  
+   - 📥 Download: [Python.org](https://www.python.org/downloads/)  
+   - 📝 Check if Python is installed:  
+     ```sh
+     python --version
+     ```
+     Expected output (Example): `Python 3.10.5`  
+
+2. **Git** (If you plan to clone from GitHub)  
+   - 📥 Download: [Git](https://git-scm.com/downloads)  
+   - 📝 Check if Git is installed:  
+     ```sh
+     git --version
+     ```
+     Expected output: `git version 2.x.x`  
+
+3. **Pip (Python Package Manager)**  
+   - 📝 Check if pip is installed:  
+     ```sh
+     pip --version
+     ```
+     Expected output: `pip 22.x.x from ... (python 3.x.x)`  
+   - If pip is not installed, install it:  
+     ```sh
+     python -m ensurepip --default-pip
+     ```
+
+---
+
+## 🔹 **1.3 Download & Setup**  
+
+### **Option 1: Manual Download**  
+1. Go to [Stock Tool GitHub Repository](https://github.com/Sami9889/Stock-tool).  
+2. Click **"Code" → "Download ZIP"**.  
+3. Extract the ZIP file into a folder on your computer.  
+4. Open a terminal or command prompt and navigate to the extracted folder:  
+   ```sh
+   cd path/to/Stock-tool
